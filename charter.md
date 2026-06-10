@@ -5,7 +5,7 @@
 3. Word processing
 4. Web design
 5. Leaving the class feeling confident 
-# "Potential Challenges"
+## "Potential Challenges"
 - Understanding the concept of the program because I am new to this.
 - Learning to do things on my own because I never took an online course.
 - Having to learn the concept in a short time.
