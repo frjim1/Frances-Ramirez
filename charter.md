@@ -1,5 +1,5 @@
 # Frances Ramirez
-## Course goals
+## Course Goals
 1. Learning the basic of programming
 2. Problem solving
 3. Word processing
